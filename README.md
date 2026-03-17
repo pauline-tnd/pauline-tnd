@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Pauline%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Pauline%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+%26+efficient+systems+%F0%9F%9A%80;Laravel+%7C+React+%7C+Flutter+learner+%F0%9F%8C%B1;From+backend+logic+to+beautiful+UIs+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+%26+efficient+systems;Laravel+%7C+React+%7C+Flutter+learner;From+backend+logic+to+beautiful+UIs;Always+learning%2C+always+growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@
 
 ```ts
 const name = {
-  role     : "Informatics Student & Backend Developer",
+  role     : "Informatics Student & Software Developer",
   focus    : ["Scalable Systems", "Clean Architecture", "Full-Stack Engineering"],
   learning : ["Laravel", "React", "Flutter"],
   passion  : "Building reliable apps that deliver real value to users",
